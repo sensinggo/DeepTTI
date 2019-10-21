@@ -48,6 +48,5 @@ In the data folder we provide some sample data. You can use your own data with t
  Updating...
  
  # Demo video:
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/vek4OLE3Yio/0.jpg)]
-(https://youtu.be/vek4OLE3Yio "Hit to demo video on Youtube.")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/vek4OLE3Yio/0.jpg)](https://youtu.be/vek4OLE3Yio "Hit to demo video on Youtube.")
  
