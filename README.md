@@ -8,9 +8,6 @@ Please see the samples in data folder for more details.
 The complete data can be downloaded at 
 https://https://sensinggo.org/
 
-# Demo video:
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/vek4OLE3Yio/0.jpg)](https://youtu.be/vek4OLE3Yio "Hit to demo video on Youtube.")
-
 # Usage:
 
 ## Model Training
@@ -49,3 +46,8 @@ In the data folder we provide some sample data. You can use your own data with t
 
 ### Format Instructions
  Updating...
+ 
+ # Demo video:
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/vek4OLE3Yio/0.jpg)]
+(https://youtu.be/vek4OLE3Yio "Hit to demo video on Youtube.")
+ 
